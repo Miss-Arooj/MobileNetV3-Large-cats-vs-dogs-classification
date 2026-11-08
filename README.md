@@ -75,11 +75,11 @@ Recorded notebook outputs:
 
 ### Validation Confusion Matrix
 
-![Validation Confusion Matrix](outputs/validation_confusion_matrix.png)
+![Validation Confusion Matrix](./outputs/validation_confusion_matrix.png)
 
 ### Test Confusion Matrix
 
-![Test Confusion Matrix](outputs/test_confusion_matrix.png)
+![Test Confusion Matrix](./outputs/test_confusion_matrix.png)
 
 These results are based on the recorded notebook outputs and should be reproduced with the same dataset split before being used in external claims.
 
